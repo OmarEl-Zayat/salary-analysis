@@ -48,8 +48,11 @@ salary-analysis/
 │
 ├── README.md
 ├── data/
+│   └── ds_salaries.csv
 ├── scripts/
-└── outputs/
+│   └── econometrics_project.R
+└── report/
+    └── report_eco_code.docx
 ```
 
 ## Skills Demonstrated
