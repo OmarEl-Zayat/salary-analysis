@@ -52,7 +52,7 @@ salary-analysis/
 ├── scripts/
 │   └── econometrics_project.R
 └── report/
-    └── report_eco_code.docx
+    └── report.docx
 ```
 
 ## Skills Demonstrated
